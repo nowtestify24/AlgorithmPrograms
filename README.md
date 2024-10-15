@@ -21,5 +21,5 @@ The purpose of this repository is to serve as a resource for those interested in
     cd algorithm-programs
    
 3.Compile and run program
- g++ -std=c++11 -o binarySearch binarySearch.cpp
-./binarySearch
+   - g++ -std=c++11 -o binarySearch binarySearch.cpp
+   - ./binarySearch
